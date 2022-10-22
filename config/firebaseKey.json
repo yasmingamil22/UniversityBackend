@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nodejs-college-project",
+  "private_key_id": "fc2f14150e9c5a24df96f79ff4c3079ea7bb7fca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCm4UaLjT3tk34m\nr1YOHCOUTK7uqE8Dx49cm8+cWeIK3LUOcWyMqZbfOSS/96mkqtZTmalPBriXkdYf\nTUN1Kz3sRWBCExshYU6lYE3d0KIdlrmB1D+ONFYuHZJ/ALwLWbSybMMUvFrnzILn\nFXcLTPGSgssHOBsN4G4xhGBKFp8ucK0EfdY1LgNlO7JHIFdK4TokCGUB9B4Ljw6O\nJnpmoEjR4Mc+AleRG2mWUXnWR6O3AXw4PXgWSK9h6L0kPFPD5m1MHXqm/2kKsbD6\nNQj9TZ5oAVwctgZjSG9DIAmFlpRlds3rZT4d2uGs2P9JzDjJ3fYXAMHQji5LssDo\nudHd1VOHAgMBAAECggEAOhRjcgRJTlsr55jUcXq3o1CA/YzUWzNkIM4Vlovt0Ov5\nk7pEFjybxrrjoHA4uZe/mj77nwZuzkmyZRiF5syS8509oCF4KsjsD0CSOSX4liW0\nEIxnRj3O1KP0LYF68NRawFJ8HsZjORODZ5uf3+36kYw1zyBmwhCfKVqyDHcNFaMO\ngC/hkuoPIJ8oNawAdTdRpIlQzPgWhD4QeyHUBElH/SoDYWi0epCW9nVFEbHDJd/X\nuuxLtpPSrE6ni/75JXAYDb7JqZpFlnt8lPbA6mPFFGSyILX7OSchhmVWbri/e6Up\nTM86qLgeCcHzYVZLaRDv1w7BSSBz9gP3bvs1HRy92QKBgQDqctNSUlCHafPKo6Ww\nwIP/rLJbTazpEwGTD2UyNjaMMGfwmJpCOTQmB/mcj86X18WYlwmG/v4RF9TNHj9H\nXLLD+VjtXKobOA19ZLp5TX0hQbHpOHc5jSwMheFm+wmQF5gP5ruzLt/sEh5372ij\n0wrFPWFNaYHkDEvcfL2q00PhjQKBgQC2OGOSv6NmyKAaIrr4xg3SnY2UdXjPWS6C\n1UwJxe5XT1k/wDJKK4Y6x1KyEI5t3qOiO3AX5Hy9gxcdkqYEzNREJN1oXxYinVQK\noo/PGUZ3bHuqAZ3JWwRqZil4FN50B/ZHYnmIsHp2cSUpuOVL3Eyy8YAGT6kvLqVV\n55VuxJoCYwKBgGI1eXpJivw+kOY4yQaSjnjCofAHSMBVutocn9p5xT3SZSfu9Od6\nyPKJcrF3uCX5OAekdVQ8ardEUVsfKYi+NxBK2kqL/6HpSBVX5Zk8sYcF2v4ELkVI\ncsRILNSTojze9U7r64KyxxA/ws2g1yeRFzjqbmEcKlIaKIkTI+x0FUJdAoGAL7+E\n8A5BbgyCT3bsUYXsV1UrpUxG9OZklqn3u9PeyYgkVd0yEFdpW/uhAsHt4IJnlHpI\nvCoGOc6g/wHPeRCHSrfyQIgyD630OLkyP81atq55lSnJQ9sSxCKzGSE2zWbMtRXr\nzNKZtHGfkFg/1WoLuxQnPQAg0BlD/8eoU5c22AsCgYBllzRFRWjV1etQQEii1CC7\nAi2DF4H0VPvN9bMky5L6w4qMS7ft2Y1nbT9tkq6bVE4CQJu4U8hhMjg3E6JbOJzn\nWhz9m7EvjwnYq3rTtxs6nUUqwkP4l5nQSbM4EOw01Oa77eQt3NZsKpe6JLzueWKK\npDdbBPprX8HJwo/NASqIUA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-9e91t@nodejs-college-project.iam.gserviceaccount.com",
+  "client_id": "109987761652101972446",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9e91t%40nodejs-college-project.iam.gserviceaccount.com"
+}
